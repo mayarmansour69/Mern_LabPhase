@@ -23,22 +23,19 @@ To install dependencies and run the application, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-url>
+ 
+         git clone <repository-url>
 
 2. Navigate to the client directory:
 
-   ```bash
-   cd fullstack-mern-movie-app/fullstack-mern-movie/client
+       cd fullstack-mern-movie-app/fullstack-mern-movie/client
 
 3.Install the dependencies:
     
-     ```bash
      cd fullstack-mern-movie-app/fullstack-mern-movie/clien
 
 4.Start the application:
 
-    ```bash
       npm start
 
 
