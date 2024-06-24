@@ -32,7 +32,7 @@ To install dependencies and run the application, follow these steps:
 
 3.Install the dependencies:
     
-       cd fullstack-mern-movie-app/fullstack-mern-movie/clien
+       npm install
 
 4.Start the application:
 
