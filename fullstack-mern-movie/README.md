@@ -17,16 +17,31 @@
 [Swiper](https://swiperjs.com/)<br>
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
 
+## Installation
+
+To install dependencies and run the application, follow these steps:
+
+1. Clone the repository:
+
+ 
+         git clone <repository-url>
+
+2. Navigate to the client directory:
+
+       cd fullstack-mern-movie-app/fullstack-mern-movie/client
+
+3.Install the dependencies:
+    
+       npm install
+
+4.Start the application:
+
+        npm start
+
 # Preview
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322539-8fcd83e1-8424-4922-980c-91d20cdf761c.png "Fullstack Responsive Movie Website 2022")
+![Screenshot 2024-06-25 211549](https://github.com/mayarmansour69/Mern_LabPhase/assets/153771309/3e7b54fc-d542-4d84-9103-905cacb14b67)
+![Screenshot 2024-06-25 211631](https://github.com/mayarmansour69/Mern_LabPhase/assets/153771309/97b96cba-fab5-4507-a8ce-f79e40d53ea5)
+![Screenshot 2024-06-25 211642](https://github.com/mayarmansour69/Mern_LabPhase/assets/153771309/454b497c-cb18-46b9-b7af-b32c23b323cb)
+![Screenshot 2024-06-25 211659](https://github.com/mayarmansour69/Mern_LabPhase/assets/153771309/0f43450f-7b59-41b2-a3a5-743d00575b1c)
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322676-cbf56b14-8e23-4622-bbd9-76e6cbe619a8.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322838-09e075c4-7f47-4252-83e8-afdd633e1968.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322933-1b5cf238-0ec7-4adf-89eb-6b4fb3dcb996.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323098-dfa74553-78a8-4809-a7a7-cd569c3b3f6c.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323021-0b5657d2-8913-4b81-8c1b-d4ceef065ee6.png "Fullstack Responsive Movie Website 2022")
